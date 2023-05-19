@@ -1,1 +1,2 @@
 # Global_Deforestation
+ForestQuery is a non-profit organization that aims to reduce deforestation worldwide and raise awareness about this critical environmental issue. The data analysis team was able to find tables of data online dealing with forestation as well as total land area and region groupings and joined these tables together into a database to query to answer some of the most important questions.
